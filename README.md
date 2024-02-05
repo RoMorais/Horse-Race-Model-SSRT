@@ -2,6 +2,9 @@
 A code to calculate the stop signal reaction time of a stop signal task utilizing the horse-race model
 
 You should set in the `.env` file your input and output path. Input will read all the .csvs in it. Output will YADA YADA.
+
+a change
+
 # Title
 ## Heading 1
 ### Heading 2
